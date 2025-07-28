@@ -2865,3 +2865,4 @@ for country in countries_data:
         highest_population = country['population']
         most_populous_country = country['name']
 print("Most populous country is:", most_populous_country, "with a population of", highest_population)
+
