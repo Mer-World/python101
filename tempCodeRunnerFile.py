@@ -1,0 +1,1 @@
+print(combined_list.count())
